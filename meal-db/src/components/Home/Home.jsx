@@ -1,3 +1,5 @@
+document.documentElement.setAttribute("data-theme", "dark");
+
 const Home = () => {
     return (
         <div>
